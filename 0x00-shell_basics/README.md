@@ -1,3 +1,0 @@
-working
-#!/bin/bash
-readme
