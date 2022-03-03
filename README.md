@@ -1,2 +1,2 @@
-# alx-system_engineering_devops
+#!/bin/bash
 I'm not getting this
